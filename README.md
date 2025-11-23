@@ -1,0 +1,1 @@
+# 24118019_mehmet_akif_cetinel_kuiz
