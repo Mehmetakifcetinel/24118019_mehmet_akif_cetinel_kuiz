@@ -17,6 +17,7 @@ Bu proje, Kapadokya Üniversitesi Web Tasarımı dersi (BGY207) için hazırlanm
 ## Canlı Demo (Bonus için)
 [GitHub Pages Linki](https://yourusername.github.io/220501001-Mehmet_Akif-Kuiz/) <!-- Replace with real link if deployed -->
 
-Öğrenci No: 220501001  
+Öğrenci No: 24118019  
 Ad Soyad: Mehmet Akif  Çetinel 
+
 Ders: Web Tasarımı  
